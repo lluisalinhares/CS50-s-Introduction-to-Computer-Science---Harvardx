@@ -1,1 +1,3 @@
-# CS50-s-Introduction-to-Computer-Science---Harvardx
+# Introduction to Computer Science - Harvard University
+
+#### Codes, etc..
