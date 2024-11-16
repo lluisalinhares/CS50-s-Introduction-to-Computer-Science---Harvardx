@@ -1,3 +1,3 @@
-# Introduction to Computer Science - Harvard University
+# Introduction to Computer Science - CS50
 
-#### Codes, etc..
+<p>🔹CS50 course exercises.</p>
